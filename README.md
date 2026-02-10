@@ -22,5 +22,3 @@ This repo contains an end‑to‑end time‑series demand forecasting workflow w
 - Model comparisons and diagnostics are produced in‑notebook.
 - A 28‑day forecast is generated for all store×SKU pairs.
 
-## License
-For interview/assignment use only unless otherwise specified.
